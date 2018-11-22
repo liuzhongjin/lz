@@ -1,0 +1,161 @@
+*{
+	padding:0px;
+	font-size:12px;
+	margin:0 auto;
+}
+#banner{
+	margin:0 auto;
+	width:1000px;
+}
+#nav{
+	background:url(../img/navbackground.png);
+	margin:0px auto;
+	width:1000px;
+	padding:9px;
+	text-align:center;
+	font-size:16px;
+	font-weight:bold;
+}
+#weather{
+	width:1000px;
+	margin:0 auto;
+}
+#wea1{
+}
+#wea2{
+	text-align:right;
+}
+#content1{
+	width:1000px;
+	height:300px;
+	margin:0 auto;
+	margin-top:10px;
+}
+#content1-1{
+	width:426px;
+	padding:3px;
+}
+#ct1{
+	font-weight:bold;
+	font-size:16px;
+	font-family:"黑体";
+	padding:5px;
+	color:black;
+}
+#ct2{
+	width:80px;
+	text-align:left;
+}
+#ct3{
+	padding:5px;
+	text-align:center;
+	font-weight:bold;
+	color:white;
+}
+#nav a{
+	color:white;
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+a:hover{
+	color:red;
+}
+#ct_td{
+	height:300px;
+}
+#ct1_td,#ct1_td table{
+   height:180px;
+   width:550px;
+}
+#ct2_td,#ct2_td table{
+	height:120px;
+	width:550px;
+}
+.aa{
+	background:url(../img/content1-2f.png) no-repeat #CCC;
+}
+.aa td{
+	padding-left:20px;
+}
+#content3{
+	width:1000px;
+}
+.ct3_td{
+	width:210px;
+}
+.ct3_td table{
+	width:210px;
+}
+.ct3_td .t2{
+	width:180px;
+}
+
+.t1,.t3{
+	background:gray;
+}
+.t2 table{
+	width:180px;
+	height:200px;
+	text-align:center;
+}
+.sm{
+	text-align:left;
+}
+.t2 .cc{
+	border-bottom:1px solid gray;
+	text-align:left;
+}
+.im{
+	background:url(../img/content3bg.png) no-repeat #a1afc9;
+	padding-left:20px;
+	height:26px;
+}
+.im1{
+	font-size:14px;
+	font-weight:bold;
+	color:white;
+}
+.im2{
+	text-align:right;
+	padding:3px;
+}
+#ct3_td2{
+	vertical-align: top;
+}
+#dd{
+	width:540px;
+}
+#dd .d{
+		background:url(../img/content3bg.png) no-repeat #a1afc9;
+		padding-left:20px;
+	    height:29px;
+}
+#dd .dd{
+	border-bottom:1px solid gray;
+	padding:6px;
+}
+#ct3_td3{
+	vertical-align: top;
+}
+
+#tr1,#tr2{
+	background:url(../img/content3bg.png) no-repeat #a1afc9;
+	height:28px;
+}
+#tr1 td{
+	padding-left:20px;
+}
+
+#tr2 td{
+	padding-left:20px;
+}
+.ww{
+	vertical-align: top;
+	padding:10px;
+}
+.qq{
+	padding:10px;
+	width:100px;
+}
